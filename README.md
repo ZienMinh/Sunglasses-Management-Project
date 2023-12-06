@@ -38,3 +38,6 @@ To get started with the Sunglasses Management Project, follow the steps below.
 Once the application is running, you can use the user interface to perform various tasks, such as managing inventory, processing sales, and generating reports.
 
 For detailed usage instructions, refer to the documentation included in the project.
+
+License
+(c) Vien Minh Licensed under the [MIT LICENSE](LICENSE).
