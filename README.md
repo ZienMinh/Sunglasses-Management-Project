@@ -39,5 +39,5 @@ Once the application is running, you can use the user interface to perform vario
 
 For detailed usage instructions, refer to the documentation included in the project.
 
-License
+## License
 (c) Vien Minh Licensed under the [MIT LICENSE](LICENSE).
